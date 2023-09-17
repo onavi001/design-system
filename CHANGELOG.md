@@ -2,12 +2,7 @@
 
 #### ⚠️ Pushed to `main`
 
-- update visual tests ([@onavi001](https://github.com/onavi001))
-- update name config ([@onavi001](https://github.com/onavi001))
-- update action config ([@onavi001](https://github.com/onavi001))
-- add chromatic config ([@onavi001](https://github.com/onavi001))
-- add addons and icon storie ([@onavi001](https://github.com/onavi001))
-- Initialize project using Create React App ([@onavi001](https://github.com/onavi001))
+- Created first version of my design system, with `Icon` component.
 
 #### Authors: 1
 
