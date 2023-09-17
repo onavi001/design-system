@@ -31,8 +31,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "rollup -c --bundleConfigAsCjs",
-    "watch": "rollup --watch -c --bundleConfigAsCjs",
+    "build": "rollup -c",
+    "watch": "rollup --watch -c",
     "release": "npm run build && auto shipit",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
