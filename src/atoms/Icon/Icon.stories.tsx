@@ -56,6 +56,7 @@ const List = styled.ul`
 
 const meta: Meta<typeof Icon> = {
   title: 'Design System/Icon',
+  tags: ['autodocs'],
   component: Icon,
 };
 export default meta;
